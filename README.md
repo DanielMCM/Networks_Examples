@@ -1,2 +1,2 @@
 # Networks_Examples
-Example assignments using networkx in python
+Example assignments from ELTE University using networkx in python
